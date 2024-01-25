@@ -276,3 +276,113 @@
     "input_file_dist": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/compressed_data/compressed_75_a-hidden-life.mp4",
     "input_file_ref": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/compressed_data/compressed_0_a-hidden-life.mp4"
 }
+
+video frame 1000 from a-hidden-life.mp4, compression level 75 with compression level 0
+"vmaf": [
+        {
+            "integer_adm2": 0.7527,
+            "integer_adm_scale0": 0.860269,
+            "integer_adm_scale1": 0.702978,
+            "integer_adm_scale2": 0.661321,
+            "integer_adm_scale3": 0.783521,
+            "integer_motion2": 0.0,
+            "integer_motion": 0.0,
+            "integer_vif_scale0": 0.392952,
+            "integer_vif_scale1": 0.602708,
+            "integer_vif_scale2": 0.633012,
+            "integer_vif_scale3": 0.652345,
+            "vmaf": 17.186562,
+            "n": 1
+        }
+    ],
+    "global": {
+        "vmaf": {
+            "integer_adm2": {
+                "average": 0.753,
+                "median": 0.753,
+                "stdev": 0.0,
+                "min": 0.753,
+                "max": 0.753
+            },
+            "integer_adm_scale0": {
+                "average": 0.86,
+                "median": 0.86,
+                "stdev": 0.0,
+                "min": 0.86,
+                "max": 0.86
+            },
+            "integer_adm_scale1": {
+                "average": 0.703,
+                "median": 0.703,
+                "stdev": 0.0,
+                "min": 0.703,
+                "max": 0.703
+            },
+            "integer_adm_scale2": {
+                "average": 0.661,
+                "median": 0.661,
+                "stdev": 0.0,
+                "min": 0.661,
+                "max": 0.661
+            },
+            "integer_adm_scale3": {
+                "average": 0.784,
+                "median": 0.784,
+                "stdev": 0.0,
+                "min": 0.784,
+                "max": 0.784
+            },
+            "integer_motion2": {
+                "average": 0.0,
+                "median": 0.0,
+                "stdev": 0.0,
+                "min": 0.0,
+                "max": 0.0
+            },
+            "integer_motion": {
+                "average": 0.0,
+                "median": 0.0,
+                "stdev": 0.0,
+                "min": 0.0,
+                "max": 0.0
+            },
+            "integer_vif_scale0": {
+                "average": 0.393,
+                "median": 0.393,
+                "stdev": 0.0,
+                "min": 0.393,
+                "max": 0.393
+            },
+            "integer_vif_scale1": {
+                "average": 0.603,
+                "median": 0.603,
+                "stdev": 0.0,
+                "min": 0.603,
+                "max": 0.603
+            },
+            "integer_vif_scale2": {
+                "average": 0.633,
+                "median": 0.633,
+                "stdev": 0.0,
+                "min": 0.633,
+                "max": 0.633
+            },
+            "integer_vif_scale3": {
+                "average": 0.652,
+                "median": 0.652,
+                "stdev": 0.0,
+                "min": 0.652,
+                "max": 0.652
+            },
+            "vmaf": {
+                "average": 17.187,
+                "median": 17.187,
+                "stdev": 0.0,
+                "min": 17.187,
+                "max": 17.187
+            }
+        }
+    },
+    "input_file_dist": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/im75.png",
+    "input_file_ref": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/im0.png"
+}

@@ -1,1009 +1,278 @@
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3314,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3315,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3316,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3317,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3318,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3319,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3320,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3321,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3322,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3323,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3324,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3325,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3326,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3327,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3328,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3329,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3330,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3331,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3332,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3333,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3334,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3335,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3336,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3337,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3338,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3339,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3340,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3341,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3342,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3343,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3344,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3345,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3346,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3347,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3348,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3349,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3350,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3351,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3352,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3353,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3354,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3355,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3356,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3357,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3358,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3359,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3360,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3361,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3362,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3363,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3364,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3365,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3366,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3367,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3368,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3369,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3370,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3371,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3372,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3373,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3374,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3375,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3376,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3377,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3378,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3379,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3380,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3381,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3382,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3383,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3384,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3385,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3386,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3387,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3388,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3389,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3390,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3391,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3392,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3393,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3394,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3395,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3396,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3397,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3398,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3399,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3400,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3401,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3402,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3403,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3404,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3405,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3406,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3407,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3408,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3409,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3410,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3411,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3412,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3413,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3414,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3415,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3416,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3417,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3418,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3419,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3420,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3421,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3422,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3423,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3424,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3425,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3426,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3427,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3428,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3429,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3430,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3431,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3432,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3433,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3434,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3435,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3436,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3437,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3438,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3439,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3440,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3441,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3442,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        },
-        {
-            "n": 3443,
-            "ssim_y": 1.0,
-            "ssim_u": 0.997,
-            "ssim_v": 0.997,
-            "ssim_avg": 0.999
-        }
-    ],
+
+23:
     "global": {
-        "psnr": {
-            "mse_avg": {
-                "average": 2.155,
-                "median": 1.94,
-                "stdev": 1.531,
-                "min": 0.03,
-                "max": 9.0
-            },
-            "mse_y": {
-                "average": 2.924,
-                "median": 2.56,
-                "stdev": 2.206,
-                "min": 0.0,
-                "max": 12.88
-            },
-            "mse_u": {
-                "average": 0.626,
-                "median": 0.61,
-                "stdev": 0.303,
-                "min": 0.06,
-                "max": 1.68
-            },
-            "mse_v": {
-                "average": 0.606,
-                "median": 0.58,
-                "stdev": 0.283,
-                "min": 0.0,
-                "max": 1.59
-            },
-            "psnr_avg": {
-                "average": 46.259,
-                "median": 45.25,
-                "stdev": 4.191,
-                "min": 38.59,
-                "max": 63.18
-            },
-            "psnr_y": {
-                "average": Infinity,
-                "median": 44.05,
-                "stdev": NaN,
-                "min": 37.03,
-                "max": Infinity
-            },
-            "psnr_u": {
-                "average": 50.744,
-                "median": 50.24,
-                "stdev": 2.374,
-                "min": 45.87,
-                "max": 60.24
-            },
-            "psnr_v": {
-                "average": 50.915,
-                "median": 50.5,
-                "stdev": 2.567,
-                "min": 46.12,
-                "max": 76.29
-            }
-        },
-        "ssim": {
-            "ssim_y": {
-                "average": 0.983,
-                "median": 0.982,
-                "stdev": 0.01,
-                "min": 0.924,
-                "max": 1.0
-            },
-            "ssim_u": {
-                "average": 0.992,
-                "median": 0.992,
-                "stdev": 0.004,
-                "min": 0.978,
-                "max": 0.999
-            },
-            "ssim_v": {
-                "average": 0.992,
-                "median": 0.992,
-                "stdev": 0.004,
-                "min": 0.978,
-                "max": 1.0
-            },
-            "ssim_avg": {
-                "average": 0.986,
-                "median": 0.986,
+        "vmaf": {
+            "integer_adm2": {
+                "average": 0.985,
+                "median": 0.985,
                 "stdev": 0.007,
-                "min": 0.946,
+                "min": 0.957,
                 "max": 1.0
+            },
+            "integer_adm_scale0": {
+                "average": 0.981,
+                "median": 0.983,
+                "stdev": 0.01,
+                "min": 0.94,
+                "max": 1.001
+            },
+            "integer_adm_scale1": {
+                "average": 0.965,
+                "median": 0.965,
+                "stdev": 0.016,
+                "min": 0.917,
+                "max": 1.0
+            },
+            "integer_adm_scale2": {
+                "average": 0.983,
+                "median": 0.983,
+                "stdev": 0.009,
+                "min": 0.93,
+                "max": 1.003
+            },
+            "integer_adm_scale3": {
+                "average": 0.994,
+                "median": 0.994,
+                "stdev": 0.005,
+                "min": 0.94,
+                "max": 1.003
+            },
+            "integer_motion2": {
+                "average": 3.48,
+                "median": 2.035,
+                "stdev": 3.992,
+                "min": 0.0,
+                "max": 39.354
+            },
+            "integer_motion": {
+                "average": 4.428,
+                "median": 2.26,
+                "stdev": 8.313,
+                "min": 0.0,
+                "max": 194.415
+            },
+            "integer_vif_scale0": {
+                "average": 0.735,
+                "median": 0.717,
+                "stdev": 0.118,
+                "min": 0.36,
+                "max": 1.0
+            },
+            "integer_vif_scale1": {
+                "average": 0.962,
+                "median": 0.962,
+                "stdev": 0.021,
+                "min": 0.893,
+                "max": 1.0
+            },
+            "integer_vif_scale2": {
+                "average": 0.982,
+                "median": 0.983,
+                "stdev": 0.01,
+                "min": 0.949,
+                "max": 1.0
+            },
+            "integer_vif_scale3": {
+                "average": 0.991,
+                "median": 0.991,
+                "stdev": 0.005,
+                "min": 0.972,
+                "max": 1.001
+            },
+            "vmaf": {
+                "average": 96.229,
+                "median": 95.719,
+                "stdev": 2.251,
+                "min": 87.493,
+                "max": 100.0
             }
         }
     },
     "input_file_dist": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/compressed_data/compressed_23_a-hidden-life.mp4",
+    "input_file_ref": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/compressed_data/compressed_0_a-hidden-life.mp4"
+}
+
+50:
+"global": {
+        "vmaf": {
+            "integer_adm2": {
+                "average": 0.775,
+                "median": 0.779,
+                "stdev": 0.074,
+                "min": 0.493,
+                "max": 1.0
+            },
+            "integer_adm_scale0": {
+                "average": 0.845,
+                "median": 0.844,
+                "stdev": 0.051,
+                "min": 0.743,
+                "max": 1.018
+            },
+            "integer_adm_scale1": {
+                "average": 0.7,
+                "median": 0.7,
+                "stdev": 0.093,
+                "min": 0.464,
+                "max": 1.0
+            },
+            "integer_adm_scale2": {
+                "average": 0.716,
+                "median": 0.72,
+                "stdev": 0.098,
+                "min": 0.35,
+                "max": 1.0
+            },
+            "integer_adm_scale3": {
+                "average": 0.81,
+                "median": 0.818,
+                "stdev": 0.087,
+                "min": 0.362,
+                "max": 1.0
+            },
+            "integer_motion2": {
+                "average": 3.48,
+                "median": 2.035,
+                "stdev": 3.992,
+                "min": 0.0,
+                "max": 39.354
+            },
+            "integer_motion": {
+                "average": 4.428,
+                "median": 2.26,
+                "stdev": 8.313,
+                "min": 0.0,
+                "max": 194.415
+            },
+            "integer_vif_scale0": {
+                "average": 0.348,
+                "median": 0.279,
+                "stdev": 0.208,
+                "min": 0.07,
+                "max": 1.0
+            },
+            "integer_vif_scale1": {
+                "average": 0.507,
+                "median": 0.462,
+                "stdev": 0.19,
+                "min": 0.119,
+                "max": 1.001
+            },
+            "integer_vif_scale2": {
+                "average": 0.572,
+                "median": 0.553,
+                "stdev": 0.176,
+                "min": 0.152,
+                "max": 1.007
+            },
+            "integer_vif_scale3": {
+                "average": 0.628,
+                "median": 0.622,
+                "stdev": 0.161,
+                "min": 0.194,
+                "max": 1.01
+            },
+            "vmaf": {
+                "average": 29.417,
+                "median": 26.46,
+                "stdev": 15.492,
+                "min": 0.0,
+                "max": 97.428
+            }
+        }
+    },
+    "input_file_dist": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/compressed_data/compressed_50_a-hidden-life.mp4",
+    "input_file_ref": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/compressed_data/compressed_0_a-hidden-life.mp4"
+}
+
+ "global": {
+        "vmaf": {
+            "integer_adm2": {
+                "average": 0.762,
+                "median": 0.762,
+                "stdev": 0.075,
+                "min": 0.485,
+                "max": 1.182
+            },
+            "integer_adm_scale0": {
+                "average": 0.836,
+                "median": 0.834,
+                "stdev": 0.053,
+                "min": 0.725,
+                "max": 1.014
+            },
+            "integer_adm_scale1": {
+                "average": 0.688,
+                "median": 0.688,
+                "stdev": 0.096,
+                "min": 0.444,
+                "max": 1.013
+            },
+            "integer_adm_scale2": {
+                "average": 0.697,
+                "median": 0.691,
+                "stdev": 0.099,
+                "min": 0.347,
+                "max": 1.208
+            },
+            "integer_adm_scale3": {
+                "average": 0.799,
+                "median": 0.804,
+                "stdev": 0.091,
+                "min": 0.326,
+                "max": 2.117
+            },
+            "integer_motion2": {
+                "average": 3.48,
+                "median": 2.035,
+                "stdev": 3.992,
+                "min": 0.0,
+                "max": 39.354
+            },
+            "integer_motion": {
+                "average": 4.428,
+                "median": 2.26,
+                "stdev": 8.313,
+                "min": 0.0,
+                "max": 194.415
+            },
+            "integer_vif_scale0": {
+                "average": 0.341,
+                "median": 0.272,
+                "stdev": 0.208,
+                "min": 0.065,
+                "max": 1.0
+            },
+            "integer_vif_scale1": {
+                "average": 0.493,
+                "median": 0.445,
+                "stdev": 0.192,
+                "min": 0.115,
+                "max": 1.0
+            },
+            "integer_vif_scale2": {
+                "average": 0.555,
+                "median": 0.531,
+                "stdev": 0.177,
+                "min": 0.149,
+                "max": 1.004
+            },
+            "integer_vif_scale3": {
+                "average": 0.611,
+                "median": 0.601,
+                "stdev": 0.162,
+                "min": 0.19,
+                "max": 1.005
+            },
+            "vmaf": {
+                "average": 26.757,
+                "median": 23.321,
+                "stdev": 15.543,
+                "min": 0.0,
+                "max": 100.0
+            }
+        }
+    },
+    "input_file_dist": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/compressed_data/compressed_75_a-hidden-life.mp4",
     "input_file_ref": "/Users/kajsalidin/Desktop/nr-vqa-vmaf/compressed_data/compressed_0_a-hidden-life.mp4"
 }

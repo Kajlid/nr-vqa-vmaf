@@ -10,6 +10,9 @@ images_TEST
 nr-vqa-vmaf/data
 train3.txt
 val3.txt
+model.pt
+train_ALL2.txt
+val_ALL2.txt
 compressed_data_ALL
 compressed_TEST_videos_ALL
 compressed_data2

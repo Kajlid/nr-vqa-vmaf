@@ -23,6 +23,7 @@ vmaf_log_0.json
 vmaf_log_23.json
 vmaf_log_50.json
 vmaf_log_75.json
+inference_ALL2.csv
 vmaf_train.txt
 images_train_compressed_ALL
 images_train_comp_crop_ALL

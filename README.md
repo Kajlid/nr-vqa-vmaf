@@ -1,6 +1,6 @@
 # nr-vqa-vmaf
 
-ffmpeg_quality_metrics was used to calculate vmaf.
+Some of the code in this respitory may be deprecated or test cases not used for attaining the results. Write to https://github.com/Kajlid/nr-vqa-vmaf/issues for questions.
 
 Main dependencies:
 - pip3 install torch torchvision torchview
@@ -8,6 +8,7 @@ Main dependencies:
 - pip3 install ffmpeg_quality_metrics
 - pip install scikit-image
 
+ffmpeg_quality_metrics was used to calculate vmaf.
 
 Structure:
 

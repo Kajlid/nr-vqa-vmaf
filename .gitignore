@@ -16,6 +16,8 @@ train_ALL2.txt
 val_ALL2.txt
 compressed_data_ALL
 compressed_TEST_videos_ALL
+val_ALL3.txt
+model2.pt
 compressed_data2
 compressed_TEST_videos
 vmaf_values_train.csv

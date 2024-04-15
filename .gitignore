@@ -12,6 +12,7 @@ images_TEST
 nr-vqa-vmaf/data
 train3.txt
 val3.txt
+visualizations
 train_ALL2
 model.pt
 train_ALL2.txt

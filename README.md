@@ -1,6 +1,6 @@
 # nr-vqa-vmaf
 
-Some of the code in this respitory may be deprecated or test cases not used for attaining the results. Write to https://github.com/Kajlid/nr-vqa-vmaf/issues for questions.
+The code in this repository was a part of a Bachelor thesis project at KTH. Some of the code in this respitory may be deprecated or test cases not used for attaining the results. Write to https://github.com/Kajlid/nr-vqa-vmaf/issues for questions.
 
 Main dependencies:
 - pip3 install torch torchvision torchview
@@ -16,21 +16,25 @@ Structure:
     Main working file. Here all code for the project can be found.
 
 - data    [Folder]
+The 87 videos in the dataset are movie trailers from SF Anytime: https://www.sfanytime.com/sv?gad_source=1&gclid=CjwKCAjwoPOwBhAeEiwAJuXRh6oWU7xujbrRTNWjHI0TJWMGzKvdCIxuh3fRfquPWEXj0LysFCYgdRoC60UQAvD_BwE.
+
     - trailers_train        [Folder]
         the 70 trailers reserved for the dataset that the neural network was trained on. 
     
     - trailers_test         [Folder]
         the 17 trailers reserved for the dataset that the neural network was tested on. 
 
-
-- compressed_data: 
-    NOT USED
-
 - compressed_data2:         [Folder]
     70 videos from the training data that has gotten a random compression level. 
 
+- compressed_data_ALL:      [Folder]
+    All videos in the train set (70 videos), where each video has been compressed into three differently compressed versions, where the constant rate factors were set to 23, 37 and 51.
+
 - compressed_TEST_videos:   [Folder]
     17 videos from the test data that has gotten a random compression level.
+
+- compressed_TEST_videos_ALL:      [Folder]
+    All videos in the test set (17 videos), where each video has been compressed into the three differently compressed versions, same as compressed_data_ALL above.
 
 - images_train:             [Folder]
     Reference images (train set), each 250th frame from trailers_train.

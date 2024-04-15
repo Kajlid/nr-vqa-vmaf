@@ -6,6 +6,8 @@ images_train_comp_crop_png
 images_train_comp_crop
 images_train
 images_TEST_compressed
+train_ALL2.txt
+val_ALL2.txt
 images_TEST
 nr-vqa-vmaf/data
 train3.txt

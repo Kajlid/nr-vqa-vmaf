@@ -1,4 +1,3 @@
-data/trailers_train/.DS_Store
 images_train_crop_png
 images_train_crop
 images_train_compressed2
@@ -24,10 +23,6 @@ compressed_data2
 compressed_TEST_videos
 vmaf_values_train.csv
 vmaf_values_TEST.csv
-vmaf_log_0.json
-vmaf_log_23.json
-vmaf_log_50.json
-vmaf_log_75.json
 inference_ALL2.csv
 vmaf_train.txt
 images_train_compressed_ALL
